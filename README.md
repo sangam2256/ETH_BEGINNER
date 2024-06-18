@@ -6,7 +6,7 @@ This is a simple token creation and desctruction using solidity language as well
 
 ## Requirements                                                                                                                                            
 
-1. The token creation contract has 3 public variables are as follows:                                                                                                
+1. The token creation contract has 3 public variables are as follows:-                                                                                                
    -`tokenName`: It is a string data type reprents the token name.																										    
    -`tokenAbbrev`: It is also a string data type which represents the abbrevation of token																				      
    -`totalSupply`: it is unsignes integer which represents the total supply of token.
